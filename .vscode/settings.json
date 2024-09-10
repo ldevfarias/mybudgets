@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "Images",
     "Setup",
-    "data-base"
+    "data-base",
+    "Components"
   ]
 }
