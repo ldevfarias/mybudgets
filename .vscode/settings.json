@@ -1,5 +1,7 @@
 {
   "conventionalCommits.scopes": [
-    "Images"
+    "Images",
+    "Setup",
+    "data-base"
   ]
 }
